@@ -31,7 +31,7 @@ public class Mamiferos extends Animal{
                     "Nombre: " + this.nombre + "\n" +
                     "Edad: " + this.edad + " año\n" +
                     "Genero: " + this.genero + "\n" +
-                    "Color de Piel: " + this.colorPelo + "\n" +
+                    "Color de Pelo: " + this.colorPelo + "\n" +
                     "Tipo de Comida: " + this.tipoComida + "\n" +
                     "Numero de glandulas Mamarias: " + this.numGlandulasMamarias + "\n";
        return info;
